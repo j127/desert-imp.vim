@@ -1,4 +1,8 @@
-# Desert.vim
+# desert-imp.vim
+
+This is a fork of [desert.vim](https://github.com/fugalh/desert.vim) for personal edits.
+
+# Previous README
 
 I started with the evening color scheme included in the distro, and tweaked a
 few colors to my liking.  Then I decided to do a major overhaul and give the
