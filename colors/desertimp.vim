@@ -19,7 +19,7 @@ if version > 580
 	syntax reset
     endif
 endif
-let g:colors_name="deserti-imp"
+let g:colors_name="desertimp"
 
 hi Normal	guifg=White guibg=grey20
 
@@ -56,7 +56,7 @@ hi WarningMsg	guifg=salmon
 hi MatchParen guibg=grey30 guifg=#dfffdf
 
 " syntax highlighting groups
-hi Comment	guifg=palegreen
+hi Comment	guifg=SkyBlue
 hi Constant	guifg=#ffa0a0
 hi Identifier	guifg=palegreen
 hi Statement	guifg=khaki
